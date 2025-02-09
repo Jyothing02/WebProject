@@ -1,8 +1,4 @@
 # WebProject
 Weather App project is a web application that provides real-time weather updates for any location. It utilizes HTML, CSS, and JavaScript to deliver a user-friendly interface and fetches data using the OpenWeatherMap API.
 
-### Technologies Used 
 
-- **Frontend**: HTML, CSS, JAVASCRIPT
-- **API**: [OpenWeatherMap](https://openweathermap.org/)
-- **Icons**: [Fontawesome](https://fontawesome.com/)
